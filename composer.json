@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/terriregan/module.git"
+        }
+    ],
+     "require": {
+     	"iip-design/module1": "dev-master"
+    }
+}
