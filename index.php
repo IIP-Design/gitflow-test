@@ -7,8 +7,8 @@
 </head>
 <body>
 <ul>
-<li><a href="vendor/terriregan/jenkins-module/module.html">Go to Module 1</a></li>
-<li><a href="vendor/terriregan/jenkins-module2/module.html">Go to Module 2</a></li>
+<li><a href="vendor/iip-design/module1/module.html">Go to Module 1</a></li>
+<li><a href="vendor/iip-design/module2/module.html">Go to Module 2</a></li>
 </ul>
 </body>
 </html>

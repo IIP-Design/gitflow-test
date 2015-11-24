@@ -2,10 +2,15 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/terriregan/module.git"
+            "url": "https://github.com/IIP-Design/module2.git"
+        },
+         {
+            "type": "git",
+            "url": "https://github.com/IIP-Design/module1.git"
         }
     ],
      "require": {
-     	"iip-design/module1": "dev-master"
+     	"iip-design/module1": "dev-master",
+     	"iip-design/module2": "dev-master"
     }
 }
