@@ -10,7 +10,7 @@
         }
     ],
      "require": {
-     	"iip-design/module1": "dev-master",
-     	"iip-design/module2": "dev-master"
+     	"iip-design/module1": "1.0r",
+     	"iip-design/module2": "1.0"
     }
 }
