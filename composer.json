@@ -11,6 +11,6 @@
     ],
      "require": {
      	"iip-design/module1": "1.1.1",
-     	"iip-design/module2": "2.0"
+     	"iip-design/module2": "dev-sean_362"
     }
 }
